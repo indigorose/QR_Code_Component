@@ -26,7 +26,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/indigorose/Frontend-Mentor-Projects/tree/main/QR_Code_Project/qr-code-component-main)
+- Solution URL: [GitHub](https://github.com/indigorose/QR_Code_Component)
+
+- Solution URL: [Netlify](indigorose-qrcode.netlify.app)
 
 ## My process
 
