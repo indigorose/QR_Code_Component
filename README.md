@@ -41,7 +41,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-This is my first CSS based page in while and I am definately rusty. Still a good effort but clearly in need of improvement and speed.
+This is my first HTML/CSS page in a while so it was interesting to see what I could remember. I've used the BEM naming convention with my class names. I note that some people use a single hyphen or double hyphen after naming the block.
+
+Also in my first attempt, I missed out some box shadowing which I haven't seen in a while on web applications.
+
+I think this will be attempted again using a CSS framework when I have time.
 
 ## Author
 
